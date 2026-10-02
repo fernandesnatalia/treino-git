@@ -11,3 +11,6 @@ Linguagem: Java - [download](https://www.oracle.com/java/technologies/downloads/
 
 ## Entendendo o código
 Utilize esse commit para entender o comportamento do gerador - [clique para direcionar](https://github.com/fernandesnatalia/treino-git/commit/8a3eb727022d467fd79c683522b0d6a234d06898)
+
+## Objetivo
+Este repositório foi criado para praticar Git e GitHub em um ambiente colaborativo, explorando branches, commits, merges e pull requests. Explore sem medos.
